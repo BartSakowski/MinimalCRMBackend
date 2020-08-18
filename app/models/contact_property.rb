@@ -1,0 +1,2 @@
+class ContactProperty < ApplicationRecord
+end

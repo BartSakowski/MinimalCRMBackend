@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  phone_number: MyString
+  email: MyString
+  client_type: MyString
+  transaction_status: MyString
+  referral: false
+  referral_agent: MyString
+  referral_office: MyString
+  referral_fee: MyString
+
+two:
+  first_name: MyString
+  last_name: MyString
+  phone_number: MyString
+  email: MyString
+  client_type: MyString
+  transaction_status: MyString
+  referral: false
+  referral_agent: MyString
+  referral_office: MyString
+  referral_fee: MyString
