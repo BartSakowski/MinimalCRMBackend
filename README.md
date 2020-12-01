@@ -1,24 +1,15 @@
-# README
+# Minimal CRM Frontend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Please clone backend repo https://github.com/BartSakowski/MinimalCRMFrontend
 
-Things you may want to cover:
+## Running the application
 
-* Ruby version
+Clone this repo as well as the frontend repo into one folder.
 
-* System dependencies
+CD into MinimalCRM Backend
 
-* Configuration
+In the terminal, run Bundle Install
 
-* Database creation
+After run Rails Server
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Once backend is running, cd into frontend and run npm start
