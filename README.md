@@ -12,4 +12,10 @@ In the terminal, run Bundle Install
 
 After run Rails Server
 
-Once backend is running, cd into frontend and run npm start
+Once backend is running, cd into frontend 
+
+run npm install
+
+then 
+
+run npm start
